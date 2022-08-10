@@ -2,10 +2,10 @@
 
   
 <div class="inline-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats style="width:100%"">
+  <a href="https://github.com/anuraghazra/github-readme-stats style="width:250"">
     <img src="https://github-readme-stats.vercel.app/api?username=EstherBear&count_private=true&show_icons=true" />
   </a>
-  <a href="https://git.io/streak-stats" style="width:100%">
+  <a href="https://git.io/streak-stats" style="width:250">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstherBear" />
   </a>
 </div>
