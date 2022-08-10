@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-  
-<div class="inline-block">
-  <a href="https://github.com/anuraghazra/github-readme-stats style="width:48%"">
-    <img src="https://github-readme-stats.vercel.app/api?username=EstherBear&count_private=true&show_icons=true" style="width:48%"/>
-  </a>
-  <a href="https://git.io/streak-stats" style="width:48%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstherBear" style="width:48%"/>
-  </a>
-</div>
+<table style="width:100%">
+  <tr>
+    <th>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstherBear"/>
+    </a>
+    </th>
+    <th>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstherBear"/>
+    </a>
+    </th>
+  </tr>  
+</table>
+
 
 
 <!--
