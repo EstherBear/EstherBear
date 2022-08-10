@@ -3,8 +3,8 @@
 <table style="width:100%">
   <tr>
     <th>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstherBear"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=EstherBear&count_private=true&show_icons=true"/>
     </a>
     </th>
     <th>
@@ -14,8 +14,6 @@
     </th>
   </tr>  
 </table>
-
-
 
 <!--
 **EstherBear/EstherBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
